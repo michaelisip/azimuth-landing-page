@@ -1,0 +1,193 @@
+1564757086a:1:{s:11:"default.htm";a:5:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:3330:"<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ this.page.meta_description }}">
+    <meta name="title" content="{{ this.page.meta_title }}">
+    <meta name="author" content="Azimuth">
+    <meta name="generator" content="Azimuth">
+
+    <title>
+        Azimuth | {{ this.page.title }}
+    </title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ 'assets/img/brand/favicon.png' | theme }}" type="image/png">
+
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Shadows+Into+Light">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+
+    <!-- Styles -->
+    <!-- <link rel="stylesheet" href="{{ 'assets/libs/swiper/dist/css/swiper.min.css' |theme }}">
+    <link rel="stylesheet" href="{{ 'assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.css' | theme }}">
+    <link rel="stylesheet" href="{{ 'assets/css/purpose.css' | theme }}" id="stylesheet">
+    <link rel="stylesheet" href="{{ 'assets/css/custom.css' | theme }}" id="stylesheet"> -->
+
+    <link rel="stylesheet" href="{{ [
+        'assets/libs/swiper/dist/css/swiper.min.css',
+        'assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.css',
+        'assets/css/purpose.css',
+        'assets/css/custom.css',
+        ] | theme }}">
+
+    {% styles %}
+
+</head>
+
+<body class="bg-dark bg-noise" id="body">
+
+    <!-- Header -->
+    <header class="header header-transparent" id="header-main">
+        <!-- Topbar -->
+        {% partial 'navbar/topbar' %}
+
+        <!-- Main navbar -->
+        {% partial 'navbar/main' %}
+    </header>
+
+    <!-- Content -->
+    <div class="main-content">
+        {% page %}
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer-main">
+        <div class="footer footer-dark bg-gradient-primary">
+            <div class="container">
+
+                <!-- Footer Info -->
+                {% partial 'footer/main' %}
+
+                <!-- Footer Bottom -->
+                {% partial 'footer/bottom' %}
+
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <!-- <script src="{{ 'assets/js/purpose.core.js' | theme }}"></script>
+    <script src="{{ 'assets/libs/swiper/dist/js/swiper.min.js' | theme }}"></script>
+    <script src="{{ 'assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.js' | theme }}"></script>
+    <script src="{{ 'assets/libs/typed.js/lib/typed.min.js' | theme }}"></script>
+    <script src="{{ 'assets/js/purpose.js' | theme }}"></script>
+    <script src="{{ 'assets/js/custom.js' | theme }}"></script> -->
+
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" defer></script>
+
+    <script src="{{ [
+        'assets/js/purpose.core.js',
+        'assets/libs/swiper/dist/js/swiper.min.js',
+        'assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.js',
+        'assets/libs/typed.js/lib/typed.min.js',
+        'assets/js/purpose.js',
+        'assets/js/custom.js',
+        ] | theme }}"></script>
+
+    {% framework extras %}
+    {% scripts %}
+
+</body>
+
+</html>";s:5:"mtime";i:1564755266;s:6:"markup";s:3330:"<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ this.page.meta_description }}">
+    <meta name="title" content="{{ this.page.meta_title }}">
+    <meta name="author" content="Azimuth">
+    <meta name="generator" content="Azimuth">
+
+    <title>
+        Azimuth | {{ this.page.title }}
+    </title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ 'assets/img/brand/favicon.png' | theme }}" type="image/png">
+
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Shadows+Into+Light">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+
+    <!-- Styles -->
+    <!-- <link rel="stylesheet" href="{{ 'assets/libs/swiper/dist/css/swiper.min.css' |theme }}">
+    <link rel="stylesheet" href="{{ 'assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.css' | theme }}">
+    <link rel="stylesheet" href="{{ 'assets/css/purpose.css' | theme }}" id="stylesheet">
+    <link rel="stylesheet" href="{{ 'assets/css/custom.css' | theme }}" id="stylesheet"> -->
+
+    <link rel="stylesheet" href="{{ [
+        'assets/libs/swiper/dist/css/swiper.min.css',
+        'assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.css',
+        'assets/css/purpose.css',
+        'assets/css/custom.css',
+        ] | theme }}">
+
+    {% styles %}
+
+</head>
+
+<body class="bg-dark bg-noise" id="body">
+
+    <!-- Header -->
+    <header class="header header-transparent" id="header-main">
+        <!-- Topbar -->
+        {% partial 'navbar/topbar' %}
+
+        <!-- Main navbar -->
+        {% partial 'navbar/main' %}
+    </header>
+
+    <!-- Content -->
+    <div class="main-content">
+        {% page %}
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer-main">
+        <div class="footer footer-dark bg-gradient-primary">
+            <div class="container">
+
+                <!-- Footer Info -->
+                {% partial 'footer/main' %}
+
+                <!-- Footer Bottom -->
+                {% partial 'footer/bottom' %}
+
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <!-- <script src="{{ 'assets/js/purpose.core.js' | theme }}"></script>
+    <script src="{{ 'assets/libs/swiper/dist/js/swiper.min.js' | theme }}"></script>
+    <script src="{{ 'assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.js' | theme }}"></script>
+    <script src="{{ 'assets/libs/typed.js/lib/typed.min.js' | theme }}"></script>
+    <script src="{{ 'assets/js/purpose.js' | theme }}"></script>
+    <script src="{{ 'assets/js/custom.js' | theme }}"></script> -->
+
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" defer></script>
+
+    <script src="{{ [
+        'assets/js/purpose.core.js',
+        'assets/libs/swiper/dist/js/swiper.min.js',
+        'assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.js',
+        'assets/libs/typed.js/lib/typed.min.js',
+        'assets/js/purpose.js',
+        'assets/js/custom.js',
+        ] | theme }}"></script>
+
+    {% framework extras %}
+    {% scripts %}
+
+</body>
+
+</html>";s:4:"code";N;}}

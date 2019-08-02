@@ -1,0 +1,32 @@
+1564757332a:1:{s:17:"footer/bottom.htm";a:5:{s:8:"fileName";s:17:"footer/bottom.htm";s:7:"content";s:676:"<div class="row align-items-center justify-content-md-between py-4 mt-4 delimiter-top">
+    <div class="col-md-6">
+        <div class="copyright text-sm font-weight-bold text-center text-md-left">
+            &copy; {{ "now" | date('Y') }} <a href="" class="font-weight-bold" target="_blank">Azimuth</a>. All rights reserved.
+        </div>
+    </div>
+    <div class="col-md-6">
+        <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
+            <li class="nav-item">
+                <a class="nav-link scroll-me" href="#body">
+                    Back to top
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+";s:5:"mtime";i:1564756103;s:6:"markup";s:674:"<div class="row align-items-center justify-content-md-between py-4 mt-4 delimiter-top">
+    <div class="col-md-6">
+        <div class="copyright text-sm font-weight-bold text-center text-md-left">
+            &copy; {{ "now" | date('Y') }} <a href="" class="font-weight-bold" target="_blank">Azimuth</a>. All rights reserved.
+        </div>
+    </div>
+    <div class="col-md-6">
+        <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
+            <li class="nav-item">
+                <a class="nav-link scroll-me" href="#body">
+                    Back to top
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>";s:4:"code";N;}}

@@ -1,0 +1,16 @@
+1564757072a:1:{s:15:"footer/main.htm";a:5:{s:8:"fileName";s:15:"footer/main.htm";s:7:"content";s:476:"<div class="row pt-md justify-content-center">
+    <div class="col-lg-8 mb-5 mb-lg-0 text-center">
+        <a href="/index.html">
+            <img src="{{ 'assets/img/brand/logo.png' | theme }}" alt="Footer logo" class="mb-4" style="height: 120px;">
+        </a>
+        <p>Purpose is a unique and beautiful collection of UI elements that are all flexible and modular. A complete and customizable solution to building the website of your dreams.</p>
+    </div>
+</div>
+";s:5:"mtime";i:1564755848;s:6:"markup";s:474:"<div class="row pt-md justify-content-center">
+    <div class="col-lg-8 mb-5 mb-lg-0 text-center">
+        <a href="/index.html">
+            <img src="{{ 'assets/img/brand/logo.png' | theme }}" alt="Footer logo" class="mb-4" style="height: 120px;">
+        </a>
+        <p>Purpose is a unique and beautiful collection of UI elements that are all flexible and modular. A complete and customizable solution to building the website of your dreams.</p>
+    </div>
+</div>";s:4:"code";N;}}

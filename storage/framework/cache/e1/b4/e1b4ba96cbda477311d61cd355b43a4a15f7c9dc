@@ -1,0 +1,174 @@
+1564757246a:1:{s:17:"home/features.htm";a:5:{s:8:"fileName";s:17:"home/features.htm";s:7:"content";s:4645:"<section class="slice slice-lg bg-gradient-primary" id="features">
+    <div class="container">
+        <div class="mb-5 text-center">
+            <h3 class="text-white mt-4">Powerful features</h3>
+            <div class="fluid-paragraph mt-3">
+                <p class="lead lh-180 text-white">Start building fast, beautiful and modern looking websites in no time using our theme.</p>
+            </div>
+        </div>
+        <div class="row row-grid align-items-center">
+            <div class="col-lg-4">
+                <div class="d-flex align-items-start mb-5">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-expand"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="h5 text-white">Responsive web design</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-start mb-5">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-box-open"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Loaded with features</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-start">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-smile"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Friendly online support</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="position-relative" style="z-index: 10;">
+                    <img alt="Image placeholder" src="{{ 'assets/img/theme/light/iphone.png' | theme }}" class="img-center img-fluid">
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="d-flex align-items-start mb-5">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-file-archive"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Free updates forever</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-start mb-5">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fab fa-sass"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Built with Sass</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-start">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-palette"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Infinite colors</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+";s:5:"mtime";i:1564700841;s:6:"markup";s:4643:"<section class="slice slice-lg bg-gradient-primary" id="features">
+    <div class="container">
+        <div class="mb-5 text-center">
+            <h3 class="text-white mt-4">Powerful features</h3>
+            <div class="fluid-paragraph mt-3">
+                <p class="lead lh-180 text-white">Start building fast, beautiful and modern looking websites in no time using our theme.</p>
+            </div>
+        </div>
+        <div class="row row-grid align-items-center">
+            <div class="col-lg-4">
+                <div class="d-flex align-items-start mb-5">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-expand"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="h5 text-white">Responsive web design</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-start mb-5">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-box-open"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Loaded with features</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-start">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-smile"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Friendly online support</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="position-relative" style="z-index: 10;">
+                    <img alt="Image placeholder" src="{{ 'assets/img/theme/light/iphone.png' | theme }}" class="img-center img-fluid">
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="d-flex align-items-start mb-5">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-file-archive"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Free updates forever</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-start mb-5">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fab fa-sass"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Built with Sass</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-start">
+                    <div class="pr-4">
+                        <div class="icon icon-shape bg-white text-primary box-shadow-3 rounded-circle">
+                            <i class="fas fa-palette"></i>
+                        </div>
+                    </div>
+                    <div class="icon-text">
+                        <h5 class="text-white">Infinite colors</h5>
+                        <p class="mb-0 text-white">Modular and interchangable componente between layouts and even demos.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>";s:4:"code";N;}}

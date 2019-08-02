@@ -1,0 +1,40 @@
+1564757246a:1:{s:16:"home/mission.htm";a:5:{s:8:"fileName";s:16:"home/mission.htm";s:7:"content";s:1182:"<section class="slice slice-xl overflow-hidden bg-gradient-dark delimiter-top delimiter-bottom" id="mission">
+    <!-- SVG background -->
+    <div class="bg-absolute-cover bg-size--contain d-flex align-items-center">
+        <figure class="w-100">
+            <img alt="Image placeholder" src="{{ 'assets/img/svg/backgrounds/bg-3.svg' | theme }}" class="svg-inject">
+        </figure>
+    </div>
+    <div class="container position-relative zindex-100">
+        <div class="text-center">
+            <h6 class="text-muted">- Our mission -</h6>
+            <div class="fluid-paragraph mt-4">
+                <p class="lead text-white lh-180">Purpose is a great free UI package based on Bootstrap 4 that includes the most important components and features so you can jumpstart the hard work and get right to the website creation fast and easy.</p>
+                <a href="#" class="btn btn-primary rounded-pill btn-icon mt-5">
+                    <span class="btn-inner--icon"><i class="fas fa-angle-right"></i></span>
+                    <span class="btn-inner--text">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+";s:5:"mtime";i:1564700877;s:6:"markup";s:1180:"<section class="slice slice-xl overflow-hidden bg-gradient-dark delimiter-top delimiter-bottom" id="mission">
+    <!-- SVG background -->
+    <div class="bg-absolute-cover bg-size--contain d-flex align-items-center">
+        <figure class="w-100">
+            <img alt="Image placeholder" src="{{ 'assets/img/svg/backgrounds/bg-3.svg' | theme }}" class="svg-inject">
+        </figure>
+    </div>
+    <div class="container position-relative zindex-100">
+        <div class="text-center">
+            <h6 class="text-muted">- Our mission -</h6>
+            <div class="fluid-paragraph mt-4">
+                <p class="lead text-white lh-180">Purpose is a great free UI package based on Bootstrap 4 that includes the most important components and features so you can jumpstart the hard work and get right to the website creation fast and easy.</p>
+                <a href="#" class="btn btn-primary rounded-pill btn-icon mt-5">
+                    <span class="btn-inner--icon"><i class="fas fa-angle-right"></i></span>
+                    <span class="btn-inner--text">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>";s:4:"code";N;}}

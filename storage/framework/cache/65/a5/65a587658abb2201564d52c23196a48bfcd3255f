@@ -1,0 +1,64 @@
+1564757418a:1:{s:15:"navbar/main.htm";a:5:{s:8:"fileName";s:15:"navbar/main.htm";s:7:"content";s:1637:"<nav class="navbar navbar-main navbar-expand-lg navbar-transparent navbar-dark bg-dark" id="navbar-main">
+    <div class="container px-lg-0">
+        <!-- Logo -->
+        <a class="navbar-brand mr-lg-4" href="">
+            <img alt="Image placeholder" src="{{ 'assets/img/brand/logo.png' | theme }}" id="navbar-logo" style="height: 100px;">
+        </a>
+        <!-- Navbar collapse trigger -->
+        <button class="navbar-toggler pr-0" type="button" data-toggle="collapse" data-target="#navbar-main-collapse" aria-controls="navbar-main-collapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- Navbar nav -->
+        <div class="collapse navbar-collapse" id="navbar-main-collapse">
+            <ul class="navbar-nav align-items-lg-center">
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#get-started">Overview</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#features">Features</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#testimonials">Testimonials</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#mission">Mission</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#mission">Pricing Plans</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+";s:5:"mtime";i:1564755532;s:6:"markup";s:1635:"<nav class="navbar navbar-main navbar-expand-lg navbar-transparent navbar-dark bg-dark" id="navbar-main">
+    <div class="container px-lg-0">
+        <!-- Logo -->
+        <a class="navbar-brand mr-lg-4" href="">
+            <img alt="Image placeholder" src="{{ 'assets/img/brand/logo.png' | theme }}" id="navbar-logo" style="height: 100px;">
+        </a>
+        <!-- Navbar collapse trigger -->
+        <button class="navbar-toggler pr-0" type="button" data-toggle="collapse" data-target="#navbar-main-collapse" aria-controls="navbar-main-collapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- Navbar nav -->
+        <div class="collapse navbar-collapse" id="navbar-main-collapse">
+            <ul class="navbar-nav align-items-lg-center">
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#get-started">Overview</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#features">Features</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#testimonials">Testimonials</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#mission">Mission</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link scroll-me" href="#mission">Pricing Plans</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>";s:4:"code";N;}}
